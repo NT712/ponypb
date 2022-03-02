@@ -29,8 +29,9 @@ class FlashingState extends MusicBeatState
 			Press ENTER to disable them now or go to Options Menu.\n
 			Press ESCAPE to ignore this message.\n
 			You've been warned!
-			Random Engine by randomxd/n
-			Psych Port by Saw and Sirox",
+			PE Source Code by Saw
+			Custom Engine by a ramdom.
+                        Port by NT846",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
